@@ -1,3 +1,8 @@
 He didn't know why they were there... but they were.
 HELLO DUREEEEEEE
+<<<<<<< HEAD
 ERMERGERSHHH
+=======
+
+this is the third part of the 3rd part
+>>>>>>> 48c0bf1e40515798adbdb30ce7027ed93d52ad7b
