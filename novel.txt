@@ -1,6 +1,13 @@
 He didn't know why they were there... but they were.
 HELLO DUREEEEEEE
+<<<<<<< HEAD
+ERMERGERSHHH
+=======
 
 this is the third part of the 3rd part
+<<<<<<< HEAD
 
 I also update this txt file as well. Please pull this and check this out. :)
+=======
+>>>>>>> 48c0bf1e40515798adbdb30ce7027ed93d52ad7b
+>>>>>>> 16233ff14eaf9d658ed107c1b7d7289b129418ca
